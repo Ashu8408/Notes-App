@@ -1,4 +1,5 @@
-<a herf = "https://project-2-seven-beige.vercel.app/" target ="blank">**[Project Link]**</a>
+[Project Link](https://project-2-seven-beige.vercel.app)
+
 
 
 # Getting Started with Create React App
